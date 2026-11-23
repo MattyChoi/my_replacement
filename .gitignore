@@ -1,0 +1,7 @@
+logs.txt
+.env
+models/*
+!models/.gitkeep
+workspace/*
+!workspace/.gitkeep
+__pycache__/*
